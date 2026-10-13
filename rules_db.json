@@ -1,0 +1,1036 @@
+{
+  "A-01": {
+    "class_name": "Arte e immagine nella scuola secondaria di I grado",
+    "degrees": [
+      "LM-4",
+      "LM-89",
+      "LS-4",
+      "LS-95"
+    ],
+    "total_cfu_required": 48,
+    "valid_ssds": [
+      "L-ART/01",
+      "L-ART/02",
+      "L-ART/03",
+      "L-ART/04",
+      "ICAR/17",
+      "ICAR/18",
+      "ICAR/19",
+      "M-FIL/04"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Sotto-soglia 1: Estetica o Arte Contemporanea",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ART/03",
+          "M-FIL/04"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 2: Museologia e Restauro",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ART/04"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 3: Storia dell'Arte Medievale e Moderna",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ART/01",
+          "L-ART/02"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 4: Discipline Grafiche e Storico-Artistiche",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ART/01",
+          "L-ART/02",
+          "L-ART/04"
+        ]
+      }
+    ]
+  },
+  "A-11": {
+    "class_name": "Discipline letterarie e latino nei licei",
+    "degrees": [
+      "LM-14",
+      "LM-15",
+      "LM-39",
+      "LM-84",
+      "LS-16",
+      "LS-15"
+    ],
+    "total_cfu_required": 96,
+    "valid_ssds": [
+      "L-FIL-LET/04",
+      "L-FIL-LET/10",
+      "L-FIL-LET/12",
+      "L-LIN/01",
+      "M-GGR/01",
+      "L-ANT/02",
+      "L-ANT/03",
+      "M-STO/01",
+      "M-STO/02",
+      "M-STO/04"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Lingua e Letteratura Latina (L-FIL-LET/04)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-FIL-LET/04"
+        ]
+      },
+      {
+        "name": "Letteratura Italiana (L-FIL-LET/10)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/10"
+        ]
+      },
+      {
+        "name": "Linguistica Italiana (L-FIL-LET/12)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/12"
+        ]
+      },
+      {
+        "name": "Glottologia e Linguistica (L-LIN/01)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-LIN/01"
+        ]
+      },
+      {
+        "name": "Geografia (M-GGR/01)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "M-GGR/01"
+        ]
+      },
+      {
+        "name": "Storia Greca/Romana (L-ANT/02 o L-ANT/03)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ANT/02",
+          "L-ANT/03"
+        ]
+      },
+      {
+        "name": "Storia Medievale/Moderna/Contemporanea (M-STO)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "M-STO/01",
+          "M-STO/02",
+          "M-STO/04"
+        ]
+      }
+    ]
+  },
+  "A-12": {
+    "class_name": "Discipline letterarie negli istituti di istruzione secondaria di II grado",
+    "degrees": [
+      "LM-14",
+      "LM-15",
+      "LM-39",
+      "LM-84",
+      "LS-16",
+      "LS-15"
+    ],
+    "total_cfu_required": 84,
+    "valid_ssds": [
+      "L-FIL-LET/04",
+      "L-FIL-LET/10",
+      "L-FIL-LET/12",
+      "L-LIN/01",
+      "M-GGR/01",
+      "L-ANT/02",
+      "L-ANT/03",
+      "M-STO/01",
+      "M-STO/02",
+      "M-STO/04"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Lingua e Letteratura Latina (L-FIL-LET/04)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/04"
+        ]
+      },
+      {
+        "name": "Letteratura Italiana (L-FIL-LET/10)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/10"
+        ]
+      },
+      {
+        "name": "Linguistica Italiana (L-FIL-LET/12)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/12"
+        ]
+      },
+      {
+        "name": "Glottologia e Linguistica (L-LIN/01)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-LIN/01"
+        ]
+      },
+      {
+        "name": "Geografia (M-GGR/01)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "M-GGR/01"
+        ]
+      },
+      {
+        "name": "Storia Antica e Medievale/Moderna (L-ANT e M-STO)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-ANT/02",
+          "L-ANT/03",
+          "M-STO/01",
+          "M-STO/02",
+          "M-STO/04"
+        ]
+      }
+    ]
+  },
+  "A-13": {
+    "class_name": "Discipline letterarie, latino e greco nel liceo classico",
+    "degrees": [
+      "LM-15",
+      "LS-15"
+    ],
+    "total_cfu_required": 108,
+    "valid_ssds": [
+      "L-FIL-LET/02",
+      "L-FIL-LET/04",
+      "L-FIL-LET/10",
+      "L-FIL-LET/12",
+      "L-LIN/01",
+      "M-GGR/01",
+      "L-ANT/02",
+      "L-ANT/03"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Lingua e Letteratura Greca (L-FIL-LET/02)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-FIL-LET/02"
+        ]
+      },
+      {
+        "name": "Lingua e Letteratura Latina (L-FIL-LET/04)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-FIL-LET/04"
+        ]
+      },
+      {
+        "name": "Glottologia e Linguistica (L-LIN/01 o L-FIL-LET/12)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-LIN/01",
+          "L-FIL-LET/12"
+        ]
+      },
+      {
+        "name": "Letteratura Italiana (L-FIL-LET/10)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-FIL-LET/10"
+        ]
+      },
+      {
+        "name": "Geografia (M-GGR/01)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "M-GGR/01"
+        ]
+      },
+      {
+        "name": "Storia Greca (L-ANT/02)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ANT/02"
+        ]
+      },
+      {
+        "name": "Storia Romana (L-ANT/03)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-ANT/03"
+        ]
+      }
+    ]
+  },
+  "A-18": {
+    "class_name": "Filosofia e scienze umane",
+    "degrees": [
+      "LM-78",
+      "LM-51",
+      "LM-85",
+      "LM-88",
+      "LM-19",
+      "LM-59",
+      "LM-92",
+      "LS-58",
+      "LS-96"
+    ],
+    "total_cfu_required": 96,
+    "valid_ssds": [
+      "M-FIL/01",
+      "M-FIL/02",
+      "M-FIL/03",
+      "M-FIL/04",
+      "M-FIL/05",
+      "M-FIL/06",
+      "M-FIL/07",
+      "M-FIL/08",
+      "M-STO/05",
+      "M-PED/01",
+      "M-PED/02",
+      "M-PED/03",
+      "M-PED/04",
+      "M-PSI/01",
+      "M-PSI/02",
+      "M-PSI/03",
+      "M-PSI/04",
+      "M-PSI/05",
+      "M-PSI/06",
+      "M-PSI/07",
+      "M-PSI/08",
+      "SPS/07",
+      "SPS/08",
+      "SPS/09",
+      "SPS/11",
+      "SPS/12"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Sotto-soglia 1: Filosofia (Min 24 CFU)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "M-FIL/01",
+          "M-FIL/02",
+          "M-FIL/03",
+          "M-FIL/04",
+          "M-FIL/06",
+          "M-FIL/07",
+          "M-FIL/08",
+          "M-STO/05"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 2: Pedagogia (Min 24 CFU)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "M-PED/01",
+          "M-PED/02",
+          "M-PED/04"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 3: Psicologia (Min 24 CFU)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "M-PSI/01",
+          "M-PSI/02",
+          "M-PSI/04",
+          "M-PSI/05",
+          "M-PSI/06"
+        ]
+      },
+      {
+        "name": "Sotto-soglia 4: Sociologia / Antropologia (Min 24 CFU)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "SPS/07",
+          "SPS/08",
+          "SPS/09",
+          "SPS/11",
+          "SPS/12"
+        ]
+      }
+    ]
+  },
+  "A-19": {
+    "class_name": "Filosofia e storia nei licei",
+    "degrees": [
+      "LM-78",
+      "LM-84",
+      "LS-58",
+      "LS-96",
+      "LS-98"
+    ],
+    "total_cfu_required": 60,
+    "valid_ssds": [
+      "M-FIL/01",
+      "M-FIL/02",
+      "M-FIL/03",
+      "M-FIL/04",
+      "M-FIL/05",
+      "M-FIL/06",
+      "M-FIL/07",
+      "M-FIL/08",
+      "M-STO/01",
+      "M-STO/02",
+      "M-STO/04",
+      "L-ANT/02",
+      "L-ANT/03"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Discipline Filosofiche (M-FIL)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "M-FIL/01",
+          "M-FIL/02",
+          "M-FIL/03",
+          "M-FIL/04",
+          "M-FIL/05",
+          "M-FIL/06",
+          "M-FIL/07",
+          "M-FIL/08"
+        ]
+      },
+      {
+        "name": "Discipline Storiche (M-STO o L-ANT)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "M-STO/01",
+          "M-STO/02",
+          "M-STO/04",
+          "L-ANT/02",
+          "L-ANT/03"
+        ]
+      }
+    ]
+  },
+  "A-20": {
+    "class_name": "Fisica",
+    "degrees": [
+      "LM-17",
+      "LM-40",
+      "LM-44",
+      "LM-4",
+      "LS-20",
+      "LS-45"
+    ],
+    "total_cfu_required": 30,
+    "valid_ssds": [
+      "FIS/01",
+      "FIS/02",
+      "FIS/03",
+      "FIS/04",
+      "FIS/05",
+      "FIS/06",
+      "FIS/07",
+      "FIS/08"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Fisica Sperimentale (FIS/01)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "FIS/01"
+        ]
+      }
+    ]
+  },
+  "A-26": {
+    "class_name": "Matematica",
+    "degrees": [
+      "LM-40",
+      "LM-44",
+      "LM-17",
+      "LM-18",
+      "LM-32",
+      "LS-45",
+      "LS-50"
+    ],
+    "total_cfu_required": 80,
+    "valid_ssds": [
+      "MAT/02",
+      "MAT/03",
+      "MAT/05",
+      "MAT/06",
+      "MAT/07",
+      "MAT/08"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Algebra e Geometria (MAT/02 o MAT/03)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "MAT/02",
+          "MAT/03"
+        ]
+      },
+      {
+        "name": "Analisi Matematica (MAT/05)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "MAT/05"
+        ]
+      },
+      {
+        "name": "Probabilità o Fisica Matematica (MAT/06, MAT/07 o MAT/08)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "MAT/06",
+          "MAT/07",
+          "MAT/08"
+        ]
+      }
+    ]
+  },
+  "A-27": {
+    "class_name": "Matematica e Fisica",
+    "degrees": [
+      "LM-40",
+      "LM-17",
+      "LM-44",
+      "LS-45",
+      "LS-20"
+    ],
+    "total_cfu_required": 90,
+    "valid_ssds": [
+      "MAT/02",
+      "MAT/03",
+      "MAT/05",
+      "MAT/06",
+      "MAT/07",
+      "MAT/08",
+      "FIS/01",
+      "FIS/02",
+      "FIS/03",
+      "FIS/04",
+      "FIS/05",
+      "FIS/06",
+      "FIS/07",
+      "FIS/08"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Discipline Matematiche (MAT)",
+        "min_cfu": 48,
+        "valid_ssds": [
+          "MAT/02",
+          "MAT/03",
+          "MAT/05",
+          "MAT/06",
+          "MAT/07",
+          "MAT/08"
+        ]
+      },
+      {
+        "name": "Discipline Fisiche (FIS)",
+        "min_cfu": 30,
+        "valid_ssds": [
+          "FIS/01",
+          "FIS/02",
+          "FIS/03",
+          "FIS/04",
+          "FIS/05",
+          "FIS/06",
+          "FIS/07",
+          "FIS/08"
+        ]
+      }
+    ]
+  },
+  "A-28": {
+    "class_name": "Matematica e scienze nella scuola secondaria di I grado",
+    "degrees": [
+      "LM-40",
+      "LM-17",
+      "LM-6",
+      "LM-8",
+      "LM-60",
+      "LM-69",
+      "LS-45",
+      "LS-20",
+      "LS-7"
+    ],
+    "total_cfu_required": 132,
+    "valid_ssds": [
+      "MAT/01",
+      "MAT/02",
+      "MAT/03",
+      "MAT/04",
+      "MAT/05",
+      "MAT/06",
+      "MAT/07",
+      "MAT/08",
+      "FIS/01",
+      "FIS/02",
+      "FIS/03",
+      "FIS/04",
+      "FIS/05",
+      "FIS/06",
+      "FIS/07",
+      "FIS/08",
+      "CHIM/01",
+      "CHIM/02",
+      "CHIM/03",
+      "CHIM/06",
+      "GEO/01",
+      "GEO/02",
+      "GEO/03",
+      "GEO/04",
+      "BIO/01",
+      "BIO/03",
+      "BIO/05",
+      "BIO/09",
+      "BIO/18",
+      "BIO/19",
+      "INF/01",
+      "ING-INF/05",
+      "SECS-S/01"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Matematica (MAT)",
+        "min_cfu": 30,
+        "valid_ssds": [
+          "MAT/01",
+          "MAT/02",
+          "MAT/03",
+          "MAT/04",
+          "MAT/05",
+          "MAT/06",
+          "MAT/07",
+          "MAT/08"
+        ]
+      },
+      {
+        "name": "Fisica (FIS)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "FIS/01",
+          "FIS/02",
+          "FIS/03",
+          "FIS/04",
+          "FIS/05",
+          "FIS/06",
+          "FIS/07",
+          "FIS/08"
+        ]
+      },
+      {
+        "name": "Chimica (CHIM)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "CHIM/01",
+          "CHIM/02",
+          "CHIM/03",
+          "CHIM/06"
+        ]
+      },
+      {
+        "name": "Geologia (GEO)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "GEO/01",
+          "GEO/02",
+          "GEO/03",
+          "GEO/04"
+        ]
+      },
+      {
+        "name": "Biologia (BIO)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "BIO/01",
+          "BIO/03",
+          "BIO/05",
+          "BIO/09",
+          "BIO/18",
+          "BIO/19"
+        ]
+      },
+      {
+        "name": "Informatica o Statistica (INF o SECS-S)",
+        "min_cfu": 6,
+        "valid_ssds": [
+          "INF/01",
+          "ING-INF/05",
+          "SECS-S/01"
+        ]
+      }
+    ]
+  },
+  "A-41": {
+    "class_name": "Scienze e tecnologie informatiche",
+    "degrees": [
+      "LM-18",
+      "LM-32",
+      "LM-40",
+      "LM-66",
+      "LS-23",
+      "LS-35"
+    ],
+    "total_cfu_required": 48,
+    "valid_ssds": [
+      "INF/01",
+      "ING-INF/05",
+      "MAT/01",
+      "MAT/02",
+      "MAT/03",
+      "MAT/05"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Informatica e Sistemi (INF/01 o ING-INF/05)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "INF/01",
+          "ING-INF/05"
+        ]
+      },
+      {
+        "name": "Matematica di Base (MAT)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "MAT/01",
+          "MAT/02",
+          "MAT/03",
+          "MAT/05"
+        ]
+      }
+    ]
+  },
+  "A-46": {
+    "class_name": "Scienze giuridico-economiche",
+    "degrees": [
+      "LM-56",
+      "LM-62",
+      "LM-63",
+      "LM-77",
+      "LM-87",
+      "LMG/01",
+      "LS-64",
+      "LS-84"
+    ],
+    "total_cfu_required": 96,
+    "valid_ssds": [
+      "IUS/01",
+      "IUS/02",
+      "IUS/04",
+      "IUS/09",
+      "IUS/10",
+      "IUS/12",
+      "SPS/04",
+      "SECS-P/01",
+      "SECS-P/02",
+      "SECS-P/03",
+      "SECS-P/07",
+      "SECS-P/08"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Diritto (IUS)",
+        "min_cfu": 36,
+        "valid_ssds": [
+          "IUS/01",
+          "IUS/02",
+          "IUS/04",
+          "IUS/09",
+          "IUS/10",
+          "IUS/12",
+          "SPS/04"
+        ]
+      },
+      {
+        "name": "Economia Politica e Aziendale (SECS-P)",
+        "min_cfu": 36,
+        "valid_ssds": [
+          "SECS-P/01",
+          "SECS-P/02",
+          "SECS-P/03",
+          "SECS-P/07",
+          "SECS-P/08"
+        ]
+      }
+    ]
+  },
+  "A-47": {
+    "class_name": "Scienze matematiche applicate",
+    "degrees": [
+      "LM-40",
+      "LM-44",
+      "LM-18",
+      "LM-56",
+      "LM-77",
+      "LS-45",
+      "LS-50"
+    ],
+    "total_cfu_required": 48,
+    "valid_ssds": [
+      "MAT/05",
+      "MAT/06",
+      "MAT/08",
+      "SECS-S/01",
+      "SECS-S/06",
+      "SECS-P/05"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Metodi Matematici e Modelli (MAT/05 o MAT/08)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "MAT/05",
+          "MAT/08"
+        ]
+      },
+      {
+        "name": "Statistica o Matematica Finanziaria (SECS-S/06, SECS-S/01 o SECS-P/05)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "SECS-S/01",
+          "SECS-S/06",
+          "SECS-P/05"
+        ]
+      }
+    ]
+  },
+  "A-50": {
+    "class_name": "Scienze naturali, chimiche e biologiche",
+    "degrees": [
+      "LM-6",
+      "LM-60",
+      "LM-75",
+      "LM-54",
+      "LS-6",
+      "LS-62",
+      "LS-82"
+    ],
+    "total_cfu_required": 60,
+    "valid_ssds": [
+      "CHIM/01",
+      "CHIM/02",
+      "CHIM/03",
+      "CHIM/06",
+      "BIO/01",
+      "BIO/03",
+      "BIO/05",
+      "BIO/19",
+      "GEO/01",
+      "GEO/02",
+      "GEO/03",
+      "GEO/04"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Chimica (CHIM)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "CHIM/01",
+          "CHIM/02",
+          "CHIM/03",
+          "CHIM/06"
+        ]
+      },
+      {
+        "name": "Biologia (BIO)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "BIO/01",
+          "BIO/03",
+          "BIO/05",
+          "BIO/19"
+        ]
+      },
+      {
+        "name": "Scienze della Terra (GEO)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "GEO/01",
+          "GEO/02",
+          "GEO/03",
+          "GEO/04"
+        ]
+      }
+    ]
+  },
+  "AA22": {
+    "class_name": "Lingue e culture straniere nell'istruzione secondaria di I grado (Francese)",
+    "degrees": [
+      "LM-37",
+      "LM-38",
+      "LM-94",
+      "LS-39",
+      "LS-43"
+    ],
+    "total_cfu_required": 72,
+    "valid_ssds": [
+      "L-LIN/03",
+      "L-LIN/04",
+      "L-LIN/01",
+      "L-LIN/02"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Lingua Francese (L-LIN/04)",
+        "min_cfu": 36,
+        "valid_ssds": [
+          "L-LIN/04"
+        ]
+      },
+      {
+        "name": "Letteratura Francese (L-LIN/03)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-LIN/03"
+        ]
+      },
+      {
+        "name": "Linguistica Generale (L-LIN/01 o L-LIN/02)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-LIN/01",
+          "L-LIN/02"
+        ]
+      }
+    ]
+  },
+  "AB22": {
+    "class_name": "Lingue e culture straniere nell'istruzione secondaria di I grado (Inglese)",
+    "degrees": [
+      "LM-37",
+      "LM-38",
+      "LM-94",
+      "LS-39",
+      "LS-43"
+    ],
+    "total_cfu_required": 72,
+    "valid_ssds": [
+      "L-LIN/10",
+      "L-LIN/11",
+      "L-LIN/12",
+      "L-LIN/01",
+      "L-LIN/02"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Lingua Inglese (L-LIN/12)",
+        "min_cfu": 36,
+        "valid_ssds": [
+          "L-LIN/12"
+        ]
+      },
+      {
+        "name": "Letteratura Inglese/Anglo-Americana (L-LIN/10 o L-LIN/11)",
+        "min_cfu": 24,
+        "valid_ssds": [
+          "L-LIN/10",
+          "L-LIN/11"
+        ]
+      },
+      {
+        "name": "Linguistica Generale (L-LIN/01 o L-LIN/02)",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "L-LIN/01",
+          "L-LIN/02"
+        ]
+      }
+    ]
+  },
+  "BA02": {
+    "class_name": "Conversazione in lingua straniera (Francese)",
+    "degrees": [
+      "LM-37",
+      "LM-38",
+      "LM-94",
+      "LS-39",
+      "LS-43",
+      "Madrelingua"
+    ],
+    "total_cfu_required": 1,
+    "valid_ssds": [
+      "L-LIN/04",
+      "Madrelingua"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Titolo di Madrelingua o Coerenza Lingua",
+        "min_cfu": 1,
+        "valid_ssds": [
+          "L-LIN/04",
+          "Madrelingua"
+        ]
+      }
+    ]
+  },
+  "BB02": {
+    "class_name": "Conversazione in lingua straniera (Inglese)",
+    "degrees": [
+      "LM-37",
+      "LM-38",
+      "LM-94",
+      "LS-39",
+      "LS-43",
+      "Madrelingua"
+    ],
+    "total_cfu_required": 1,
+    "valid_ssds": [
+      "L-LIN/12",
+      "Madrelingua"
+    ],
+    "sub_conditions": [
+      {
+        "name": "Titolo di Madrelingua o Coerenza Lingua",
+        "min_cfu": 1,
+        "valid_ssds": [
+          "L-LIN/12",
+          "Madrelingua"
+        ]
+      }
+    ]
+  },
+  "B003": {
+    "class_name": "Laboratorio di fisica",
+    "degrees": [
+      "LM-17",
+      "LM-40",
+      "LM-44",
+      "LM-4",
+      "LS-20",
+      "Diploma Tecnico"
+    ],
+    "total_cfu_required": 12,
+    "valid_ssds": [
+      "FIS/01",
+      "FIS/02",
+      "FIS/03",
+      "FIS/04",
+      "FIS/05",
+      "FIS/06",
+      "FIS/07",
+      "FIS/08"
+    ],
+    "sub_conditions": [
+      {
+        "name": "CFU in Discipline Fisiche d'Accesso",
+        "min_cfu": 12,
+        "valid_ssds": [
+          "FIS/01",
+          "FIS/02",
+          "FIS/03",
+          "FIS/04"
+        ]
+      }
+    ]
+  }
+}
